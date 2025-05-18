@@ -44,4 +44,13 @@ Others         : Jira, Trello, i18n, Axios
 - 💼 [LinkedIn](https://www.linkedin.com/in/rajneesh19/)
 
 
+---
+
+### ✅ Next Steps:
+
+- ✅ Your GitHub username `rajneesh10011` is already added to the GitHub stats and repo links.
+- 🔗 Add real links to your **LinkedIn** and **project repositories** in the relevant sections above.
+- 🎨 You can customize GitHub card themes by replacing `theme=react` with other themes like `dark`, `tokyonight`, or `radical` in the image URLs.
+
+Would you like help generating a **GitHub contributions graph**, or later when you're ready, help setting up a **portfolio website** using this information? I'm happy to assist!
 
