@@ -26,7 +26,15 @@ Others         : Jira, Trello, i18n, Axios
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&count_private=true" alt="Rajneesh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rajneesh10011&show_icons=true&theme=react&count_private=true" alt="Rajneesh's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneesh10011&theme=react" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh10011&layout=compact&theme=react" alt="Top Languages Used" />
 </p>
 
 
