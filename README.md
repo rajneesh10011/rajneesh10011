@@ -22,3 +22,8 @@ CI/CD & DevOps : Firebase Crashlytics, GitHub Actions, REST APIs, Firebase Dynam
 Languages      : JavaScript, TypeScript, HTML, CSS  
 Others         : Jira, Trello, i18n, Axios
 ```
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
