@@ -33,8 +33,15 @@ Others         : Jira, Trello, i18n, Axios
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajneesh10011&theme=react" alt="GitHub Streak" />
 </p>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajneesh10011&layout=compact&theme=react" alt="Top Languages Used" />
 </p>
+
+## 📫 Let's Connect
+
+- 📧 Email: [rajneesh10011@gmail.com](mailto:rajneesh10011@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rajneesh19/)
+
 
 
